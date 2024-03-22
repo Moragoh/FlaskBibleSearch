@@ -1,0 +1,6 @@
+.DS_STORE
+
+venv
+
+# Bible files
+**/*.json
