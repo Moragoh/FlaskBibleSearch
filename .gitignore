@@ -4,3 +4,4 @@ venv
 
 # Bible files
 **/*.json
+**/bible.db
